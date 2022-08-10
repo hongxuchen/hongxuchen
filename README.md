@@ -2,7 +2,7 @@
 
 Hi guys, I'm **h0n9xu**! My full name is **Hongxu Chen** (in Chinese: 陈泓旭). I am a researcher in Huawei and I live in Shenzhen, China.
 
-I have some works with **program analysis** and **software security**, and I write code in **Java**, **Scala**, **Rust** and **C/C++**, contact me if you have same interesting or some questions!
+I have some works with **program analysis** and **software security**, and I write code in **Java**, **Scala**, **Rust** and **C/C++**. Contact me if you have same interests or some questions!
 
 ## 📫 Contact Me on Social Media
 
