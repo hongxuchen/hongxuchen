@@ -2,7 +2,7 @@
 
 Hi guys, my name is **Hongxu Chen** (in Chinese: 陈泓旭). You can call me **h0n9xu**, which is a [leetspeak](https://en.wikipedia.org/wiki/Leet) of my given name.
 
-I am a researcher in Huawei and I live in Shenzhen, China. I have some works with **program analysis** and **software security**, and I write code in **C/C++**, **Java**, **Rust**, etc. Contact me if you have same interests or some questions!
+I am a researcher in Huawei and I live in Shenzhen, China. I have been always interested in **program analysis** and **software security**, and I write code in **C/C++**, **Java**, **Rust**, **Python**, **Lua**, **Scala**, **Shell**, etc. Contact me if you have same interests or some questions!
 
 ## 📫 On Social Media
 
