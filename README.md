@@ -13,10 +13,8 @@ I am a researcher in Huawei and I live in Shenzhen, China. I have been always in
 - [中文维基用户页面](https://zh.wikipedia.org/wiki/User:HongxuChen#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF)
 - Email: `aG9uZ3h1X2NoZW5AZm94bWFpbC5jb20=`
 
-## ✍️ GitHub Stuff
-- [My GitHub Pages](https://hongxuchen.github.io/)
+## ✍️ Personal Stuff
 - [Personal CV](https://github.com/hongxuchen/hongxuchen.github.io/blob/master/static/pdf/CV.pdf)
-- [Personal Notes](https://github.com/The-Wallfacer-Plan/notes)
 - [Bugs Mostly Foud by me](https://github.com/fot-the-fuzzer/pocs)
  
 ## 💻 Github Stats
