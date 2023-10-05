@@ -1,13 +1,13 @@
 ## ✍️ Profile
 - **Username**: h0n9xu (a [leetspeak](https://en.wikipedia.org/wiki/Leet) of my given name)
-- **Occupation**: software researcher in 2012Labs, Huawei
+- **Occupation**: software researcher/lead engineer in 2012Labs, Huawei
 - **Place of Residence**: Shenzhen, China
 - **Skills**: LLVM/Clang, fuzz testing, type system
-- **Interests**: program analysis, software security
+- **Interests**: program analysis,software security
 - **Languages**: C/C++, Java, Rust, Python, Lua, Scala, Ocaml, Bash/Zshell
-- **Editors/IDEs**: [Neovim](https://github.com/hongxuchen/dotfiles/tree/master/_config/nvim)❤️, Clion, Intellij, ~~Emacs~~
-- **Curriculum Vitae**: **[PDF](https://github.com/hongxuchen/hongxuchen.github.io/blob/master/static/pdf/CV.pdf)**
-- **Security bugs found by me**: [repo](https://github.com/fot-the-fuzzer/pocs)
+- **Editors/IDEs**: [Neovim](https://github.com/hongxuchen/dotfiles/tree/master/_config/nvim)❤️, Clion, Intellij
+- **Curriculum Vitae**: **[PDF](https://github.com/hongxuchen/hongxuchen/blob/master/CV/en.pdf)**
+- **Security bugs found by me (with CVEs)**: [repo](https://github.com/fot-the-fuzzer/pocs)
 
 ## 📫 On Social Media
 
