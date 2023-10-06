@@ -1,12 +1,12 @@
 ## ✍️ Profile
+- **Resume**:  see [EN](https://github.com/hongxuchen/hongxuchen/blob/master/CV/en.pdf)
 - **Username**: h0n9xu (a [leetspeak](https://en.wikipedia.org/wiki/Leet) of my given name)
-- **Occupation**: software researcher/lead engineer in 2012Labs, Huawei
-- **Place of Residence**: Shenzhen, China
+- **Occupation**: principle software engineer/senior researcher in TTE, 2012Labs, Huawei
+- **Place of Residence**: Shenzhen, Guangdong, China
 - **Skills**: LLVM/Clang, fuzz testing, type system
-- **Interests**: program analysis,software security
-- **Languages**: C/C++, Java, Rust, Python, Lua, Scala, Ocaml, Bash/Zshell
-- **Editors/IDEs**: [Neovim](https://github.com/hongxuchen/dotfiles/tree/master/_config/nvim)❤️, Clion, Intellij
-- **Curriculum Vitae**: **[PDF](https://github.com/hongxuchen/hongxuchen/blob/master/CV/en.pdf)**
+- **Interests**: program analysis, software security, compilers
+- **Languages**: C/C++, Java, Rust, Python, Lua, Scala, Bash/Zsh, Ocaml
+- **Editors/IDEs**: [Neovim](https://github.com/hongxuchen/dotfiles/tree/master/_config/nvim)❤️, Clion/Intellij, VSCode
 - **Security bugs found by me (with CVEs)**: [repo](https://github.com/fot-the-fuzzer/pocs)
 
 ## 📫 On Social Media
@@ -16,6 +16,7 @@
 - [Reddit](https://www.reddit.com/user/hongxuchen)
 - [Telegram](https://t.me/hongxuchen)
 - [LinkedIn](https://www.linkedin.com/in/hongxu-chen-09a97640/)
+- [juejin/掘金](https://juejin.cn/user/3382545730776301/posts)
 - [中文维基用户页面](https://zh.wikipedia.org/wiki/User:HongxuChen#%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF)
 - Email: `aG9uZ3h1X2NoZW5AZm94bWFpbC5jb20=`
  
