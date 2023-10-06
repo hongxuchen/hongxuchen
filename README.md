@@ -1,5 +1,5 @@
 ## ✍️ Profile
-- **Resume**:  see [EN](https://github.com/hongxuchen/hongxuchen/blob/master/CV/en.pdf)
+- **Resume**:  see [EN](https://github.com/hongxuchen/hongxuchen/blob/main/CV/en.pdf)
 - **Username**: h0n9xu (a [leetspeak](https://en.wikipedia.org/wiki/Leet) of my given name)
 - **Occupation**: principle software engineer/senior researcher in TTE, 2012Labs, Huawei
 - **Place of Residence**: Shenzhen, Guangdong, China
