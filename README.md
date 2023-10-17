@@ -1,6 +1,7 @@
 ## ✍️ Profile
 - **Resume**:  see [here](https://github.com/hongxuchen/hongxuchen/blob/main/CV/en.pdf)
 - **Username**: h0n9xu (a [leetspeak](https://en.wikipedia.org/wiki/Leet) of my given name)
+- **Pronouns**: he/him/his
 - **Occupation**: principle software engineer/senior researcher in TTE, 2012Labs, Huawei
 - **Education**: PhD in [SCSE, NTU, Singapore](https://www.ntu.edu.sg/scse)
 - **Place of Residence**: Shenzhen, Guangdong, China
@@ -8,7 +9,7 @@
 - **Interests**: program analysis, software security, compilers
 - **Programming Languages**: C/C++, Java, Rust, Python, Lua, Go, Scala, Bash/Zsh, Ocaml
 - **Editors/IDEs**: [Neovim](https://github.com/hongxuchen/dotfiles/tree/master/_config/nvim)❤️, Clion/Intellij, VSCode
-- **Security bugs found by me (with CVEs)**: [repo](https://github.com/fot-the-fuzzer/pocs)
+- **bugs found by me**: *300+ bugs* in open source projects, including *61 CVEs*; [see here for details](https://github.com/fot-the-fuzzer/pocs)
 
 ## 📫 On Social Media
 
@@ -23,4 +24,4 @@
  
 ## 💻 Github Stats
 
-![h0n9xu's Github stats](https://github-readme-stats.vercel.app/api?username=HongxuChen&show_icons=true)
+![h0n9xu's Github stats](https://github-readme-stats.vercel.app/api?username=hongxuchen&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongxuchen&layout=donut)
