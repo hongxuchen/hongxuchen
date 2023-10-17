@@ -24,4 +24,4 @@
  
 ## 💻 Github Stats
 
-![h0n9xu's Github stats](https://github-readme-stats.vercel.app/api?username=hongxuchen&show_icons=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongxuchen&layout=donut)
+![Overall stats](https://github-readme-stats.vercel.app/api?username=hongxuchen&show_icons=true&show=prs_merged)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongxuchen&layout=donut)
