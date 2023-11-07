@@ -24,4 +24,4 @@
  
 ## 💻 Github Stats
 
-![Overall stats](https://github-readme-stats.vercel.app/api?username=hongxuchen&show_icons=true&show=prs_merged)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongxuchen&layout=donut)
+![Overall stats](https://github-readme-stats.vercel.app/api?username=hongxuchen&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hongxuchen&layout=donut&langs_count=8)
