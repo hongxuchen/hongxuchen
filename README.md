@@ -9,7 +9,7 @@
 - **Interests**: program analysis, software security, compilers
 - **Programming Languages**: C/C++, Java, Rust, Python, Lua, Go, Scala, Bash/Zsh, Ocaml
 - **Editors/IDEs**: [Neovim](https://github.com/hongxuchen/dotfiles/tree/master/_config/nvim)❤️, Clion/Intellij, VSCode
-- **bugs found by me**: *300+ bugs* in open source projects, including *61 CVEs*; [see here for details](https://github.com/fot-the-fuzzer/pocs)
+- **bugs/trophies found by me**: *300+ bugs* in open source projects, including *61 CVEs*; [see here for details](https://github.com/fot-the-fuzzer/pocs)
 
 ## 📫 On Social Media
 
