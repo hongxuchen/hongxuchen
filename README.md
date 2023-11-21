@@ -3,7 +3,7 @@
 - **Username**: h0n9xu (a [leetspeak](https://en.wikipedia.org/wiki/Leet) of my given name)
 - **Occupation**: principle software engineer/senior researcher in TTE, 2012Labs, Huawei
 - **Education**: Ph.D. in [SCSE, NTU, Singapore](https://www.ntu.edu.sg/scse)
-- **Skills**: LLVM/Clang, fuzz testing, type system
+- **Skills**: [LLVM/Clang](https://llvm.org/), [fuzz testing](https://en.wikipedia.org/wiki/Fuzzing), [type system](https://en.wikipedia.org/wiki/Type_system)
 - **Interests**: program analysis, software security, compilers
 - **Programming Languages**: C/C++, Java, Rust, Python, Lua, Go, Scala, Bash/Zsh, Ocaml
 - **Editors/IDEs**: [Neovim](https://github.com/hongxuchen/dotfiles/tree/master/_config/nvim)❤️, Intellij IDEA, VS Code
