@@ -11,7 +11,7 @@
 
 ## 📫 On Social Media
 
-- [LinkedIn](https://www.linkedin.com/in/hongxu-chen-09a97640/)
+- [LinkedIn](https://www.linkedin.com/in/hongxu-chen-ntu/)
 - [Twitter](https://twitter.com/hongxuchen)
 - [StackOverflow](https://stackoverflow.com/users/528929/hongxu-chen)
 - [Reddit](https://www.reddit.com/user/hongxuchen)
