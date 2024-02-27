@@ -1,7 +1,7 @@
 ## ✍️ Profile ![](https://komarev.com/ghpvc/?username=hongxuchen)
 - **Resume**:  see [here](https://github.com/hongxuchen/hongxuchen/blob/main/CV/en.pdf)
 - **Username**: h0n9xu (a [leetspeak](https://en.wikipedia.org/wiki/Leet) of my given name)
-- **Occupation**: principle software engineer/senior researcher in TTE labs, 2012Labs, Huawei
+- **Occupation**: principle software engineer/senior researcher in TTE labs, 2012 labs, Huawei
 - **Education**: Ph.D. in [SCSE, NTU, Singapore](https://www.ntu.edu.sg/scse)
 - **Skills**: [LLVM/Clang](https://llvm.org/), [fuzz testing](https://en.wikipedia.org/wiki/Fuzzing), [type system](https://en.wikipedia.org/wiki/Type_system)
 - **Interests**: program analysis, software security, compilers
