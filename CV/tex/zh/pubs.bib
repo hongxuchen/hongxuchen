@@ -6,19 +6,6 @@
     url = {https://sites.google.com/view/mtfuzz/home}
 }
 
-@inproceedings {255338,
-    author = {\textbf{Hongxu Chen} and Shengjian Guo and Yinxing Xue and Yulei Sui and Cen Zhang and Yuekang Li and Haijun Wang and Yang Liu},
-    title = {{MUZZ}: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs},
-    booktitle =  {USENIX Security' 20, \ccfe{CCF-A, 网络与信息安全}},
-    year = {2020},
-    isbn = {978-1-939133-17-5},
-    pages = {2325--2342},
-    url = {https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hongxu},
-    publisher = {{USENIX} Association},
-    month = aug,
-}
-
-
 @inproceedings{hawkeye,
 	author = {\textbf{Hongxu Chen} and Yinxing Xue and Yuekang Li and Bihuan Chen and Xiaofei Xie and Xiuheng Wu and Yang Liu},
 	title = {Hawkeye: Towards a Desired Directed Grey-box Fuzzing},
@@ -60,6 +47,60 @@
   title = {\textsc{FOT}: Fuzzing  Orchestration Toolkit},
   year = {2017},
   booktitle = {NASAC 2017原型竞赛一等奖},
+}
+
+@inproceedings{PyAnalyzer,
+author = {Jin, Wuxia and Xu, Shuo and Chen, Dawei and He, Jiajun and Zhong, Dinghong and Fan, Ming and \textbf{Hongxu Chen} and Zhang, Huijia and Liu, Ting},
+title = {PyAnalyzer: An Effective and Practical Approach for Dependency Extraction from Python Code},
+year = {2024},
+isbn = {9798400702174},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3597503.3640325},
+doi = {10.1145/3597503.3640325},
+abstract = {Dependency extraction based on static analysis lays the groundwork for a wide range of applications. However, dynamic language features in Python make code behaviors obscure and nondeterministic; consequently, it poses huge challenges for static analyses to resolve symbol-level dependencies. Although prosperous techniques and tools are adequately available, they still lack sufficient capabilities to handle object changes, first-class citizens, varying call sites, and library dependencies. To address the fundamental difficulty for dynamic languages, this work proposes an effective and practical method namely PyAnalyzer for dependency extraction. PyAnalyzer uniformly models functions, classes, and modules into first-class heap objects, propagating the dynamic changes of these objects and class inheritance. This manner better simulates dynamic features like duck typing, object changes, and first-class citizens, resulting in high recall results without compromising precision. Moreover, PyAnalyzer leverages optional type annotations as a shortcut to express varying call sites and resolve library dependencies on demand. We collected two micro-benchmarks (278 small programs), two macro-benchmarks (59 real-world applications), and 191 real-world projects (10MSLOC) for comprehensive comparisons with 7 advanced techniques (i.e., Understand, Sourcetrail, Depends, ENRE19, PySonar2, PyCG, and Type4Py). The results demonstrated that PyAnalyzer achieves a high recall and hence improves the F1 by 24.7\% on average, at least 1.4x faster without an obvious compromise of memory efficiency. Our work will benefit diverse client applications.},
+booktitle = {ICSE'24 \ccfe{CCF-A, 软件工程/系统软件}},
+articleno = {112},
+numpages = {12},
+keywords = {dependency extraction, Python, dynamic features},
+location = {Lisbon, Portugal},
+series = {ICSE '24}
+}
+
+@inproceedings{SARIF,
+author = {Zhang, Yiran and Xu, Zhengzi and Liu, Chengwei and \textbf{Hongxu Chen} and Sun, Jianwen and Qiu, Dong and Liu, Yang},
+title = {Software Architecture Recovery with Information Fusion},
+year = {2023},
+isbn = {9798400703270},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3611643.3616285},
+doi = {10.1145/3611643.3616285},
+abstract = {Understanding the architecture is vital for effectively maintaining and managing large software systems. However, as software systems evolve over time, their architectures inevitably change. To keep up with the change, architects need to track the implementation-level changes and update the architectural documentation accordingly, which is time-consuming and error-prone. Therefore, many automatic architecture recovery techniques have been proposed to ease this process. Despite efforts have been made to improve the accuracy of architecture recovery, existing solutions still suffer from two limitations. First, most of them only use one or two type of information for the recovery, ignoring the potential usefulness of other sources. Second, they tend to use the information in a coarse-grained manner, overlooking important details within it. To address these limitations, we propose SARIF, a fully automated architecture recovery technique, which incorporates three types of comprehensive information, including dependencies, code text and folder structure. SARIF can recover architecture more accurately by thoroughly analyzing the details of each type of information and adaptively fusing them based on their relevance and quality. To evaluate SARIF, we collected six projects with published ground-truth architectures and three open-source projects labeled by our industrial collaborators. We compared SARIF with nine state-of-the-art techniques using three commonly-used architecture similarity metrics and two new metrics. The experimental results show that SARIF is 36.1\% more accurate than the best of the previous techniques on average. By providing comprehensive architecture, SARIF can help users understand systems effectively and reduce the manual effort of obtaining ground-truth architectures.},
+booktitle = {ESEC/FSE'23, \ccfe{CCF-A, 软件工程/系统软件}},
+pages = {1535–1547},
+numpages = {13},
+keywords = {architecture comparison, reverse engineering, software architecture recovery, software module clustering},
+location = {San Francisco, CA, USA},
+series = {ESEC/FSE 2023}
+}
+
+@inproceedings{ModX,
+author = {Yang, Can and Xu, Zhengzi and \textbf{Hongxu Chen} and Liu, Yang and Gong, Xiaorui and Liu, Baoxu},
+title = {ModX: binary level partially imported third-party library detection via program modularization and semantic matching},
+year = {2022},
+isbn = {9781450392211},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3510003.3510627},
+doi = {10.1145/3510003.3510627},
+abstract = {With the rapid growth of software, using third-party libraries (TPLs) has become increasingly popular. The prosperity of the library usage has provided the software engineers with a handful of methods to facilitate and boost the program development. Unfortunately, it also poses great challenges as it becomes much more difficult to manage the large volume of libraries. Researches and studies have been proposed to detect and understand the TPLs in the software. However, most existing approaches rely on syntactic features, which are not robust when these features are changed or deliberately hidden by the adversarial parties. Moreover, these approaches typically model each of the imported libraries as a whole, therefore, cannot be applied to scenarios where the host software only partially uses the library code segments.To detect both fully and partially imported TPLs at the semantic level, we propose ModX, a framework that leverages novel program modularization techniques to decompose the program into fine-grained functionality-based modules. By extracting both syntactic and semantic features, it measures the distance between modules to detect similar library module reuse in the program. Experimental results show that ModX outperforms other modularization tools by distinguishing more coherent program modules with 353\% higher module quality scores and beats other TPL detection tools with on average 17\% better in precision and 8\% better in recall.},
+booktitle = {ICSE'22 \ccfe{CCF-A, 软件工程/系统软件}},
+pages = {1393–1405},
+numpages = {13},
+keywords = {program modularization, semantic matcing, third-party library detection},
+location = {Pittsburgh, Pennsylvania},
+series = {ICSE '22}
 }
 
 @inproceedings{Wen2020MemLock,
